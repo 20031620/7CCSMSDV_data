@@ -1,4 +1,4 @@
-region,year,avg-house-price
+region,year,avg. house price
 North East,1993,48509.75
 North East,1994,48945.5
 North East,1995,46627.25
@@ -61,37 +61,37 @@ North West,2020,216767.25
 North West,2021,237043.5833333333
 North West,2022,248173.0
 North West,2023,248451.9166666667
-Yorkshire and the Humber,1993,54690.75
-Yorkshire and the Humber,1994,54373.0
-Yorkshire and the Humber,1995,54334.5
-Yorkshire and the Humber,1996,55364.25
-Yorkshire and the Humber,1997,59717.0
-Yorkshire and the Humber,1998,62193.75
-Yorkshire and the Humber,1999,67074.25
-Yorkshire and the Humber,2000,71847.5
-Yorkshire and the Humber,2001,76134.75
-Yorkshire and the Humber,2002,87670.5
-Yorkshire and the Humber,2003,111961.5
-Yorkshire and the Humber,2004,137317.0
-Yorkshire and the Humber,2005,148013.5
-Yorkshire and the Humber,2006,158246.5
-Yorkshire and the Humber,2007,170203.18332211388
-Yorkshire and the Humber,2008,173157.6696573205
-Yorkshire and the Humber,2009,176040.0586599628
-Yorkshire and the Humber,2010,182086.62671034227
-Yorkshire and the Humber,2011,171331.56421052985
-Yorkshire and the Humber,2012,171178.8072107286
-Yorkshire and the Humber,2013,171904.70540491046
-Yorkshire and the Humber,2014,182146.19010441616
-Yorkshire and the Humber,2015,188056.01416666666
-Yorkshire and the Humber,2016,192074.5146061133
-Yorkshire and the Humber,2017,192184.78890256622
-Yorkshire and the Humber,2018,195663.83145450486
-Yorkshire and the Humber,2019,198812.316438505
-Yorkshire and the Humber,2020,210205.08333333334
-Yorkshire and the Humber,2021,228367.75
-Yorkshire and the Humber,2022,237099.0
-Yorkshire and the Humber,2023,237076.58333333334
+Yorkshire and The Humber,1993,54690.75
+Yorkshire and The Humber,1994,54373.0
+Yorkshire and The Humber,1995,54334.5
+Yorkshire and The Humber,1996,55364.25
+Yorkshire and The Humber,1997,59717.0
+Yorkshire and The Humber,1998,62193.75
+Yorkshire and The Humber,1999,67074.25
+Yorkshire and The Humber,2000,71847.5
+Yorkshire and The Humber,2001,76134.75
+Yorkshire and The Humber,2002,87670.5
+Yorkshire and The Humber,2003,111961.5
+Yorkshire and The Humber,2004,137317.0
+Yorkshire and The Humber,2005,148013.5
+Yorkshire and The Humber,2006,158246.5
+Yorkshire and The Humber,2007,170203.18332211388
+Yorkshire and The Humber,2008,173157.6696573205
+Yorkshire and The Humber,2009,176040.0586599628
+Yorkshire and The Humber,2010,182086.62671034227
+Yorkshire and The Humber,2011,171331.56421052985
+Yorkshire and The Humber,2012,171178.8072107286
+Yorkshire and The Humber,2013,171904.70540491046
+Yorkshire and The Humber,2014,182146.19010441616
+Yorkshire and The Humber,2015,188056.01416666666
+Yorkshire and The Humber,2016,192074.5146061133
+Yorkshire and The Humber,2017,192184.78890256622
+Yorkshire and The Humber,2018,195663.83145450486
+Yorkshire and The Humber,2019,198812.316438505
+Yorkshire and The Humber,2020,210205.08333333334
+Yorkshire and The Humber,2021,228367.75
+Yorkshire and The Humber,2022,237099.0
+Yorkshire and The Humber,2023,237076.58333333334
 East Midlands,1993,53640.75
 East Midlands,1994,55044.0
 East Midlands,1995,55041.0
@@ -154,37 +154,37 @@ West Midlands,2020,246855.8333333333
 West Midlands,2021,266121.4166666667
 West Midlands,2022,277231.3333333334
 West Midlands,2023,276237.0833333333
-East of England,1993,66392.0
-East of England,1994,69352.75
-East of England,1995,69846.75
-East of England,1996,72523.75
-East of England,1997,80629.0
-East of England,1998,88693.75
-East of England,1999,96571.5
-East of England,2000,111793.25
-East of England,2001,127588.5
-East of England,2002,150829.5
-East of England,2003,180557.5
-East of England,2004,202985.0
-East of England,2005,211661.25
-East of England,2006,221125.5
-East of England,2007,238147.1101360977
-East of England,2008,244439.0176787281
-East of England,2009,233490.77640684674
-East of England,2010,261444.91994656247
-East of England,2011,255956.1170489536
-East of England,2012,255498.6938881276
-East of England,2013,258066.1151735208
-East of England,2014,279726.07244764926
-East of England,2015,305995.8525
-East of England,2016,326466.7955841156
-East of England,2017,335126.3797811996
-East of England,2018,338341.47103913274
-East of England,2019,339048.9220517695
-East of England,2020,356292.3333333333
-East of England,2021,377975.6666666666
-East of England,2022,398164.3333333333
-East of England,2023,388044.8333333333
+Eastern,1993,66392.0
+Eastern,1994,69352.75
+Eastern,1995,69846.75
+Eastern,1996,72523.75
+Eastern,1997,80629.0
+Eastern,1998,88693.75
+Eastern,1999,96571.5
+Eastern,2000,111793.25
+Eastern,2001,127588.5
+Eastern,2002,150829.5
+Eastern,2003,180557.5
+Eastern,2004,202985.0
+Eastern,2005,211661.25
+Eastern,2006,221125.5
+Eastern,2007,238147.1101360977
+Eastern,2008,244439.0176787281
+Eastern,2009,233490.77640684674
+Eastern,2010,261444.91994656247
+Eastern,2011,255956.1170489536
+Eastern,2012,255498.6938881276
+Eastern,2013,258066.1151735208
+Eastern,2014,279726.07244764926
+Eastern,2015,305995.8525
+Eastern,2016,326466.7955841156
+Eastern,2017,335126.3797811996
+Eastern,2018,338341.47103913274
+Eastern,2019,339048.9220517695
+Eastern,2020,356292.3333333333
+Eastern,2021,377975.6666666666
+Eastern,2022,398164.3333333333
+Eastern,2023,388044.8333333333
 London,1993,81123.5
 London,1994,87340.75
 London,1995,89538.5
